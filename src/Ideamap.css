@@ -1,0 +1,17 @@
+div.map{
+  background-color: #f6f7f8;
+  position: relative;
+  width: 3000px;
+  height: 3000px;
+  top: -1500px;
+  left: -1500px;
+  margin-left: 50vw;
+  margin-top: 50vh;
+  z-index: 1;
+}
+
+.connecting-line{
+  position: absolute;
+  margin: auto;
+  /*background-color: #ccc;*/
+}
